@@ -1,4 +1,3 @@
-/*Author : Aayush Agarwal
 version :  1.0.0
 Purpose: Write a programe to add two integers.
          input values to be given within the programe.
